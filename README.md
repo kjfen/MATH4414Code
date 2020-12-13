@@ -1,3 +1,3 @@
-# MATH4414 Animations
+# MATH4414 Code and Animations
 
-These are some animations I made. 
+The 4 main notebooks I used for all my models and figures. I also included 3 animations: angular momentum, random walk and the wave.  
